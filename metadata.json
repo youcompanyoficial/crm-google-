@@ -1,0 +1,12 @@
+{
+  "name": "Império DM Sexy CRM",
+  "description": "CRM completo para gestão de leads, vendas e automação de WhatsApp com integração Supabase e Evolution API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered automation",
+    "Real-time dashboards",
+    "Multi-user collaboration"
+  ]
+}
